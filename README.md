@@ -4,7 +4,7 @@
 <h3 align="center">Rising junior developer, tech lover, mobile and backend focused.</h3>
 
 
- - 👨‍💻 Studying Flutter Framework, Android and Java [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - 👨‍💻 Studying Flutter Framework, Android and Java
  - 📚 Graduated in Information Systems a [FIAP](https://www.fiap.com.br)
  - ✅ Open to work
 
